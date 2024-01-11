@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: root
+    password: 123
+    url: jdbc:mysql://localhost:33061/vhr2024?serverTimezone=Asia/Shanghai

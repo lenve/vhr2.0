@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.javaboy.vhr.framework.mapper.HrMapper">
+
+    <select id="getHrRolesByHrId" resultType="org.javaboy.vhr.framework.entity.Role">
+        select r.* from role r,hr_role hrr where r.id=hrr.rid and hrr.hr_id=#{hrid}
+    </select>
+</mapper>
