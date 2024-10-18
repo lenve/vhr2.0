@@ -1056,7 +1056,7 @@ VALUES
 	(21,'/statistics/personnel/**','/sta/pers','/src/views/sta/StaPers.vue','人事信息统计',NULL,NULL,1,5,1),
 	(22,'/statistics/recored/**','/sta/record','/src/views/sta/StaRecord.vue','人事记录统计',NULL,NULL,1,5,1),
 	(23,'/system/basic/**','/sys/basic','/src/views/sys/SysBasic.vue','基础信息设置',NULL,NULL,1,6,1),
-	(24,'/system/cfg/**','/sys/cfg','/src/views/sys/SysCfg.vue','系统管理',NULL,NULL,1,6,1),
+	(24,'/system/cfg/**','/sys/cfg','/src/views/sys/SysCfg.vue','系统管理1',NULL,NULL,1,6,1),
 	(25,'/system/log/**','/sys/log','/src/views/sys/SysLog.vue','操作日志管理',NULL,NULL,1,6,1),
 	(26,'/system/hr/**','/sys/hr','/src/views/sys/SysHr.vue','操作员管理',NULL,NULL,1,6,1),
 	(27,'/system/data/**','/sys/data','/src/views/sys/SysData.vue','备份恢复数据库',NULL,NULL,1,6,1),
