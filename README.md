@@ -4,6 +4,6 @@
 
 另需注意，相比于 vhr 1.0 版，2.0 引入了 MyBatis Plus，项目模块划分也和 1.0 版有差异。
 
-本版本亦配有付费视频教程，有需要可加微信。
+本版本亦配有付费视频教程，有需要可扫码关注微信公众号后回复vhr查看介绍。
 
-![](http://img.itboyhub.com/2021/10/tran/20220731113838.png)
+![](https://open.weixin.qq.com/qr/code?username=a_javaboy)
